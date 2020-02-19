@@ -1,0 +1,1028 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"bak",
+				"background-img-menu"
+			],
+			[
+				"data-",
+				"data-exist"
+			],
+			[
+				"event",
+				"event_verif_mail"
+			],
+			[
+				"hide",
+				"hideError"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"cou",
+				"count_response"
+			],
+			[
+				"nb",
+				"nb_click"
+			],
+			[
+				"do",
+				"donnees"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"v",
+				"verif"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"re",
+				"reponse"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"inpu",
+				"input100"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"this",
+				"this_eye"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"margn",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"db_",
+				"db_instance"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"cla",
+				"class_name"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ti",
+				"tiny"
+			],
+			[
+				"tin",
+				"tinymce"
+			],
+			[
+				"modif",
+				"modif_artistes_admin"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ne",
+				"Newdate"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"load",
+				"load_tabl"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"PO",
+				"_POST"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"owl",
+				"owl-demo"
+			],
+			[
+				"d",
+				"difference"
+			],
+			[
+				"n",
+				"nbFlyers"
+			],
+			[
+				"page",
+				"pageaccueil"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sql_",
+				"sql_prev"
+			],
+			[
+				"sql",
+				"sql_prev"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"data",
+				"data_id"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"res",
+				"resultat"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"slidetitrec",
+				"slidetitrecontacts"
+			],
+			[
+				"up",
+				"uptitre"
+			],
+			[
+				"acceui",
+				"accueil1"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"font-sie",
+				"font-size"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"sn",
+				"snmp3_get_mac"
+			],
+			[
+				"snmp",
+				"snmp3_getoid"
+			],
+			[
+				"snmp3_get_r",
+				"snmp3_get_real_port"
+			],
+			[
+				"search",
+				"search_array"
+			],
+			[
+				"snmp3_get",
+				"snmp3_get_mac"
+			],
+			[
+				"snmp3",
+				"snmp3_get_mac"
+			],
+			[
+				"rec",
+				"rechercheMarque"
+			],
+			[
+				"pre",
+				"prenom"
+			],
+			[
+				"ip",
+				"ip_equipement"
+			],
+			[
+				"switch",
+				"switchdown"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"infos",
+				"infostagadm"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/menu.js",
+			"settings":
+			{
+				"buffer_size": 5690,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vue/header.php",
+			"settings":
+			{
+				"buffer_size": 1782,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 13159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/DBA/js/event-carousel.js",
+			"settings":
+			{
+				"buffer_size": 40543,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5118,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/lab/archives/menu"
+	],
+	"file_history":
+	[
+		"/C/Users/GRETA/Documents/GitHub/test-dasie/README.md",
+		"/C/wamp64/www/lab/css/labstyle.css",
+		"/C/wamp64/www/lab/archives/menu/functions/session.php",
+		"/C/wamp64/www/lab/archives/form/index.php",
+		"/C/wamp64/www/lab/archives/menu/ajax/login.php",
+		"/C/wamp64/www/lab/archives/menu/ajax/report.php",
+		"/C/wamp64/www/lab/archives/menu/vue/accueil.php",
+		"/C/wamp64/www/lab/archives/menu/ajax/add.php",
+		"/C/wamp64/www/lab/archives/form/css/style.css",
+		"/C/wamp64/www/lab/archives/menu/js/autocomplete_city.js",
+		"/C/wamp64/www/lab/archives/menu/js/comments.js",
+		"/C/wamp64/www/lab/archives/menu/js/form.js",
+		"/C/wamp64/www/lab/archives/form/js/form.js",
+		"/C/wamp64/www/lab/archives/form/ajax/add.php",
+		"/C/wamp64/www/lab/test/js/test.js",
+		"/C/wamp64/www/lab/test/css/style.css",
+		"/C/wamp64/www/lab/test/index.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1570634436/maidenargus/www/Maiden_argus/dev/public/css/styleS5.css",
+		"/C/wamp64/www/lab/archives/comments/vue/head.php",
+		"/C/wamp64/www/lab/index.php",
+		"/C/wamp64/www/lab/js/test.js",
+		"/C/wamp64/www/lab/archives/comments/modele/accueil.php",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/public/js/searchbar.js",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/public/js/charts_admin.js",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/public/js/upload_image.js",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/public/js/charts.js",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/public/js/contact.js",
+		"/C/wamp64/www/lab/archives/comments/index.php",
+		"/C/wamp64/www/lab/archives/comments/controleur/accueil.php",
+		"/C/wamp64/www/lab/archives/comments/controleur/admin/admin.php",
+		"/C/wamp64/www/UTP7/vue/galerie_admin.php",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/core/Auth/DBAuth.php",
+		"/C/wamp64/www/lab/archives/comments/css/style.css",
+		"/C/wamp64/www/lab/archives/comments/ajax/report.php",
+		"/C/wamp64/www/lab/archives/comments/functions/sql.php",
+		"/C/wamp64/www/abecedaire/abecedaire/modele/consultation.php",
+		"/C/wamp64/www/lab/archives/comments/js/comments.js",
+		"/C/wamp64/www/lab/archives/comments/vue/header.php",
+		"/C/wamp64/www/lab/archives/comments/functions/connectdb.php",
+		"/C/wamp64/www/lab/archives/comments/functions/session.php",
+		"/C/wamp64/www/lab/archives/comments/functions/usersearchad.php",
+		"/C/wamp64/www/lab/archives/comments/vue/accueil.php",
+		"/C/wamp64/www/lab/archives/comments/accueil.php",
+		"/C/wamp64/www/abecedaire/abecedaire/vue/header.php",
+		"/C/wamp64/www/abecedaire/abecedaire/vue/head.php",
+		"/C/wamp64/www/abecedaire/abecedaire/vue/accueil.php",
+		"/C/wamp64/www/abecedaire/abecedaire/vue/connexion.php",
+		"/C/wamp64/www/abecedaire/abecedaire/controleur/connexion.php",
+		"/C/wamp64/www/abecedaire/abecedaire/controleur/accueil.php",
+		"/C/wamp64/www/abecedaire/abecedaire/controleur/ajoutcategorie.php",
+		"/C/wamp64/www/abecedaire/abecedaire/vue/mail.php",
+		"/C/wamp64/www/lab/archives/comments/web.config",
+		"/C/wamp64/www/Squelette/js/navigation.js",
+		"/C/wamp64/www/Squelette/modele/admin.php",
+		"/C/wamp64/www/Squelette/modele/accueil.php",
+		"/C/wamp64/www/Squelette/index.php",
+		"/C/wamp64/www/lab/archives/comments/functions/connect_db.php",
+		"/C/wamp64/www/lab/archives/comments/js/tiny.js",
+		"/C/wamp64/www/lab/archives/comments/com.php",
+		"/C/wamp64/www/lab/archives/comments/ajout.php",
+		"/C/wamp64/www/lab/js/choice.js",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/app/Views/admin/templates/default.php",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/core/HTML/BoostrapForm.php",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/app/Views/admin/posts/show.php",
+		"/C/wamp64/www/GrafikartObjet/Maiden argus/app/Views/admin/posts/index.php",
+		"/C/wamp64/www/lab/archives/comments/test.php",
+		"/C/wamp64/www/test/js/formulaire.js",
+		"/C/wamp64/www/test/js/index.js",
+		"/C/wamp64/www/test/index.php",
+		"/C/wamp64/www/test/css/style.css",
+		"/C/wamp64/www/test/fonts/font-awesome-4.7.0/css/font-awesome.css",
+		"/C/wamp64/www/test/js/input.js",
+		"/C/Users/valen/AppData/Local/Temp/Rar$EXa10828.7152/index.html",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569516363/maideb.txt/www/Maiden_argus/dev/public/json/117.json",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569516353/maideb.txt/www/Maiden_argus/dev/public/json/11.json",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569516339/maideb.txt/www/Maiden_argus/dev/public/json/1.json",
+		"/C/Users/valen/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/maideb.txt",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Controller/UsersController.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Controller/Admin/AppController.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Controller/DemoController.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Controller/AppController.php",
+		"/C/wamp64/www/GrafikartObjet/Objet/core/Controller/Controller.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/core/Controller/Controller.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569434968/maideb.txt/www/Maiden_argus/dev/public/js/searchbar.js",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569425004/maideb.txt/www/Maiden_argus/dev/app/Views/posts/category.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/public/admin.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/public/index.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569356286/maideb.txt/www/Maiden_argus/dev/app/Views/templates/default.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569416733/maideb.txt/www/Maiden_argus/dev/app/Autoloader.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569409057/maideb.txt/www/Maiden_argus/dev/public/Ajax/searchbar.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569407369/maideb.txt/www/Maiden_argus/dev/public/js/searchbar.js",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569413335/maideb.txt/www/Maiden_argus/dev/app/Views/posts/show.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569412333/maideb.txt/www/Maiden_argus/dev/app/Views/posts/search.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569366604/maideb.txt/www/Maiden_argus/dev/app/Views/posts/category.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569413179/maideb.txt/www/Maiden_argus/dev/app/Views/posts/index.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/core/Auth/salt.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/core/HTML/BoostrapForm.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/core/HTML/Form.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569363475/maideb.txt/www/Maiden_argus/dev/app/Views/posts/search.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569409178/maideb.txt/www/Maiden_argus/dev/public/Ajax/db.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569409190/maideb.txt/www/Maiden_argus/dev/core/Database/MysqlDatabase.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569363999/maideb.txt/www/Maiden_argus/dev/app/Views/posts/index.php",
+		"/C/users/valen/appdata/local/temp/sublime-sftp-browse-1569409022/maideb.txt/www/Maiden_argus/dev/public/Ajax/delete.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/App.php",
+		"/C/Users/valen/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/setup.txt",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Config.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/CategoriesTable.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/PostsTable.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Database.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Table.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/config/config.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/UsersTable.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/pages/article.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/pages/home.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/pages/categorie.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Autoloader.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/pages/templates/default.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Categorie.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Article.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/demo/car.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/demo/car_citadine.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/demo/index.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/demo/car4x4.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/demo/carFactory.php",
+		"/C/wamp64/www/GrafikartObjet/Blog/pages/articles.php",
+		"/C/Users/valen/GrafikArt/.env",
+		"/C/Users/valen/GrafikArt/src/Migrations/Version20190703211232.php",
+		"/C/Users/valen/GrafikArt/templates/base.html.twig"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"background-menu",
+			"container-hidden-menu",
+			"container-hidden-menu show",
+			"stop",
+			"fade",
+			"title-who-i-am",
+			"fadeInUpBig",
+			"outi",
+			"first",
+			"CV",
+			"cv",
+			"grid",
+			"transform",
+			"medi",
+			"register_mail",
+			"mail",
+			"ajax",
+			"        \n",
+			"empty",
+			"pseudo",
+			"phone",
+			"ajax",
+			"validate",
+			"validate*",
+			"validate",
+			"showError",
+			"showValidate",
+			"field",
+			"ville",
+			"@media",
+			"city",
+			"eye_hide",
+			"push",
+			"form",
+			"submit",
+			".action-button",
+			".wrap",
+			"bloc-rep-comm-editor",
+			"button_login",
+			"after",
+			"signaler",
+			"response",
+			"response_comment",
+			"add_commentaire",
+			"id_user",
+			"reponse-commentaire",
+			"response_to",
+			"$donnees['nom2']",
+			"$donnees['commentaire2']",
+			"2",
+			"$donnees['nom2']",
+			"add_commentaire",
+			"text",
+			"fa-thumbs-up",
+			"<a href",
+			"response_to",
+			"response_comment",
+			"response_to",
+			"rép",
+			"répon",
+			".fs-title",
+			"@media",
+			"media",
+			"}",
+			"{",
+			"container_login",
+			"login_mail",
+			"login",
+			"fonc",
+			"font",
+			"butt",
+			"mot de pass",
+			"cré",
+			"connex",
+			"cré",
+			"connex",
+			"#login_mail",
+			"login_mail",
+			".login_mail",
+			"login_mail",
+			"query",
+			"upd",
+			"count",
+			"submit",
+			"form",
+			"submit",
+			"id_comment",
+			"report",
+			"signaler",
+			"ex2",
+			"submit",
+			"signalement_form",
+			"inser",
+			".signaler",
+			".signaler {",
+			"action",
+			"first",
+			"connex",
+			"btn-annuler-modif-msg",
+			"<!--",
+			"connex",
+			"conne",
+			"<div class=\"signaler\">",
+			"date",
+			"masq_response",
+			"display_response",
+			"response_comment",
+			"siblings",
+			"after",
+			"response_comment",
+			"btn-poster-msg",
+			"btn btn-poster-msg",
+			"response_to",
+			"id_response",
+			"){  ",
+			"laiss",
+			"btn-laisser-comm",
+			"add_commentaire",
+			"color",
+			"display_response",
+			"txt-aff-reponse",
+			"response_comment",
+			"btn-poster-msg",
+			"btn btn-poster-msg",
+			"display_response",
+			"response_comment",
+			"#response_comment",
+			"response_comment"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$donnees['pseudo']",
+			"$donnees['comment']",
+			"$donnees['pseudo']",
+			"<div class=\"signaler\" data-auth=\"johny\" data-id=\"<?= $donnees['id']; ?>\">",
+			".response_comment",
+			"class=\"response_comment\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/menu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5183,
+								5183
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2827.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vue/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1515,
+								1515
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp64/www/DBA/js/event-carousel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8585,
+								8585
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4163.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								997,
+								997
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
