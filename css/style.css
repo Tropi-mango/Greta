@@ -3,9 +3,10 @@ html, body{
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Muli', sans-serif !important;
 	letter-spacing: 2px;
-	background-color: #f0f0f0;
+	background-color: #ecebeb !important;
+	/* overflow-x: hidden; */
 }
 a, button, input:focus, input[type="button"], input[type="reset"], input[type="submit"], textarea:focus, .button, .front-page .overlay, .gallery img, .site-header {
     -webkit-transition: all 0.3s ease-in-out;
@@ -14,9 +15,53 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
+.search-result-city:nth-of-type(2n+1):hover{
+  background-color: #24292e24;
+}
+.search-result-city:nth-of-type(2n):hover{
+  background-color: #24292e32;
+}
+.search-result-city{
+  letter-spacing: 0px;
+  cursor: pointer;
+  padding: 3%;
+  font-size: 18px;
+  color: #24292e;
+}
+.search-result-city:nth-of-type(2n) {
+  background-color: #24292e26;
+}
+.container-search-city{
+  width: 50%;
+  margin-bottom: 4%;
+  position: relative;
+}
+.input-search-city{
+  background-color: #000000c7;
+  width: 100%;
+  border-color: #ffffff26;
+  border-radius: 4px;
+  height: 35px;
+  color: white;
+  padding: 2%;
+}
+.hidden-result-search-city{
+  width: 100%;
+  height: auto;
+  max-height: 250px;
+  background-color: whitesmoke;
+  position: absolute;
+  border-radius: 2px;
+  /* padding: 2%; */
+  /* margin: 1%; */
+  left: 0;
+  margin-top: 1px;
+  overflow-y: scroll;
+  display: none;
+}
 .our-center{
   color: white;
-  margin-bottom: 5%;
+  margin-bottom: 4%;
 }
 .map-city{
   cursor: pointer;
@@ -34,6 +79,8 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
 .footer-bottom{
   text-align: center;
   padding-left: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
   padding-right: 20%;
   color: whitesmoke;
   background-color: #1d2023;
@@ -46,6 +93,8 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
   background-color: #24292e;
   height: 400px;
   padding: 2%;
+  position: relative;
+  /* overflow: hidden; */
 }
 .footer-right{
   width: 50%;
@@ -62,8 +111,8 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
     padding-left: 15%;
     padding-right: 15%;
     text-align: center;
-    padding-top: 6%;
-    padding-bottom: 6%;
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
 .fadeInUp.formations{
     padding-left: 15%;
@@ -79,6 +128,7 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
 	padding: 0.35em .25em;
 	padding-top: 0.1em;
 	margin-left: 4%;
+	transition: 0.3s;
 }
 .tabs {
     margin:  0;
@@ -86,9 +136,9 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
     list-style: none;
     display: table; /* [1] */
     table-layout: fixed; /* [2] */
-    width: 50%; /* [3] */
+    width: 40%; /* [3] */
     float: right;
-    margin-right: 4%;
+    /* margin-right: 4%; */
 }
 .nav-collapse {
   list-style: none;
@@ -97,7 +147,7 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
   top: 0;
   position: absolute;
   z-index: 3;
-  background-color: #ffffffeb;
+  background-color: #ffffffcf;
   -webkit-box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15);
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15);
 }
@@ -159,7 +209,11 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
 
 
 .primary-nav.active a {
-    padding: 1.5em .75em;
+    padding: 1.5em 0.25em;
+    /* padding-top: 1.5em; */
+    /* padding-bottom: 1.5em; */
+    /* padding-left: 1.5em; */
+    /* padding-right: 1.5em; */
     background: rgba(255, 255, 255, 0.1);
     text-decoration: none;
     font-weight: 400;
@@ -174,18 +228,21 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
     background: #ff9800de;
 }
 .logo.active{
-	padding: 0.5em .75em;
-	max-width: 120px;
+	max-width: 200px;
+	max-height: 90px;
+	transition: 0.3s;
 }
 
 .ml16 {
   color: #ffffff;
   padding: 40px 0;
+  padding-left: 20px;
   font-weight: 1000;
   font-size: 3em;
   text-transform: uppercase;
   letter-spacing: 0.5em;
   overflow: hidden;
+  text-align: center;
 }
 
 .ml16 .letter {
@@ -199,6 +256,12 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
     transform: translate(-50%, -50%);
     z-index: 10;
     /* display: none; */
+    background-color: #00000096;
+    padding: 1%;
+    border-radius: 2px;
+    min-width: 40%;
+    min-height: 5%;
+    text-align: center;
 }
 
 #content{

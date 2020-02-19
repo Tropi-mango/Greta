@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
 				"fade",
 				"fadeOut"
 			],
@@ -388,20 +392,29 @@
 	"buffers":
 	[
 		{
-			"file": "css/style.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6258,
+				"buffer_size": 7770,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/all.js",
+			"settings":
+			{
+				"buffer_size": 2431,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 6653,
-				"encoding": "UTF-8 with BOM",
+				"buffer_size": 0,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -466,10 +479,12 @@
 	[
 		"/C/Users/GRETA/Documents/GitHub/Greta",
 		"/C/Users/GRETA/Documents/GitHub/Greta/css",
+		"/C/Users/GRETA/Documents/GitHub/Greta/js",
 		"/C/Users/GRETA/Documents/GitHub/Greta/pages"
 	],
 	"file_history":
 	[
+		"/E/retour/menu/css/style.css",
 		"/C/Users/GRETA/Documents/GitHub/Greta/pages/faq.html",
 		"/C/Users/GRETA/Documents/GitHub/Greta/pages/contact.html",
 		"/C/Users/GRETA/Documents/GitHub/Greta/pages/formations.html",
@@ -596,12 +611,11 @@
 		"/C/wamp64/www/GrafikartObjet/Blog/app/Autoloader.php",
 		"/C/wamp64/www/GrafikartObjet/Blog/pages/templates/default.php",
 		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Categorie.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Article.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/demo/car.php"
+		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Article.php"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -615,6 +629,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"6174943",
+			"longitude",
+			"grid",
 			"background-menu",
 			"container-hidden-menu",
 			"container-hidden-menu show",
@@ -739,10 +756,7 @@
 			"response_comment",
 			"btn-poster-msg",
 			"btn btn-poster-msg",
-			"display_response",
-			"response_comment",
-			"#response_comment",
-			"response_comment"
+			"display_response"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -766,16 +780,74 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6054,
+								6054
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3611.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/all.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2431,
+								2431
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6258,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -799,40 +871,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6653,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 483.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "pages/formations.html",
 					"semi_transient": false,
 					"settings":
@@ -853,14 +896,14 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 690.0,
+						"translation.y": 368.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "pages/faq.html",
 					"semi_transient": false,
 					"settings":
@@ -872,8 +915,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								1320,
+								1320
 							]
 						],
 						"settings":
@@ -881,10 +924,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 483.0,
+						"translation.y": 1679.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
