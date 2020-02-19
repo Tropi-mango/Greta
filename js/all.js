@@ -58,7 +58,9 @@ $(document).ready(function() {
 	//ANIMATED TEXT AFTER SLIDE ON CAROUSEL
 	$('#owl-full').on('changed.owl.carousel', function(event) { 
 		$('#owl-full').trigger('stop.owl.autoplay');
+		$('.center-letter').hide();
         $('#owl-full').trigger('play.owl.autoplay');
+        $('.center-letter').fadeIn(1000);
 		anime.timeline({loop: false})
 		  .add({
 			targets: '.ml16 .letter',
