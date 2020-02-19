@@ -55,12 +55,26 @@ $(document).ready(function() {
 			delay: (el, i) => 30 * i
 		  })
 
+    // INIT MAP
+	coordonnees = {lat: 48.862725, lng: 2.287592};
+	initMap(coordonnees);    
+	//MAP CHANGE
+    $('.map-city').on('click', (function (e) {
+    	coordonnees = $(this).data('coordonnees');
+    	latitude = coordonnees.split(",")[0];
+    	latitude = parseFloat(latitude);
+    	longitude = coordonnees.split(",")[1];
+    	longitude = parseFloat(longitude);
+    	coordonnees = {lat: latitude, lng: longitude};
+    	initMap(coordonnees);
+    }));
 
+
+	
 });
 	//MAP GOOGLE
-	function initMap() {
-	  var uluru = {lat: -25.344, lng: 131.036};
+	function initMap(coordonnees) {
 	  var map = new google.maps.Map(
-		  document.getElementById('map'), {zoom: 4, center: uluru});
-	  var marker = new google.maps.Marker({position: uluru, map: map});
+		  document.getElementById('map'), {zoom: 4, center: coordonnees});
+	  var marker = new google.maps.Marker({position: coordonnees, map: map});
 	}
