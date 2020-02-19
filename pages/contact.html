@@ -8,18 +8,16 @@
   <meta name="description" content="Greta">
   <meta name="author" content="Tropi">
   <link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="css/owl.carousel.css">
-  <link rel="stylesheet" href="css/owl.theme.default.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../css/style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="../css/animate.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <body>
  <header>
 	<nav class="nav-collapse" role="navigation">
-		<a href="./"><img class="logo" src="img/logo.png" alt="logo"></a>
+		<a href="./"><img class="logo" src="../img/logo.png" alt="logo"></a>
 		<ul class="tabs primary-nav">
 			<li class="tabs__item">
 				<a href="#" class="tabs__link">Formations</a>
@@ -35,61 +33,155 @@
 			</li>
 		</ul>
 	</nav>
-
-	<div class="container-bottom-stripe">
-		<section class="section-bottom-stripe">
-			<div class="bloc-bottom-stripe">
-				<h3 class="title-bottom-stripe">99 %</h3>
-				<div class="subtitle-bottom-stripe">de couverture mondiale</div>
-				<div class="copy-bottom-stripe">Tirez parti de données complètes et fiables pour plus de 200 pays et territoires.</div>
-			</div>
-			<div class="bloc-bottom-stripe">
-				<h3 class="title-bottom-stripe">25 millions</h3>
-				<div class="subtitle-bottom-stripe">de mises à jour quotidiennes</div>
-				<div class="copy-bottom-stripe">Appuyez-vous sur des technologies de developpements précises, disponibles en temps réel.</div>
-			</div>
-			<div class="bloc-bottom-stripe">
-				<h3 class="title-bottom-stripe">1 milliard</h3>
-				<div class="subtitle-bottom-stripe">de cancers actifs par mois</div>
-				<div class="copy-bottom-stripe">Évoluez en toute confiance grâce à notre infrastructure.</div>
-			</div>
-
-
-		</section>
-	</div>
-
-	<div id="owl-full" class="owl-carousel owl-theme">
-		<div class="item" >
-			<div class="center-letter">
-				<h1 class="ml16">Formations</h1>
-			</div>
-			<img src="img/4.jpg" alt="greta">
-		</div>
-		<div class="item" >
-			<div class="center-letter">
-				<h1 class="ml16">Témoignages</h1>
-			</div>
-			<img src="img/2.jpg" alt="dna">
-		</div>
-		<div class="item" >
-			<div class="center-letter">
-				<h1 class="ml16">FAQ</h1>
-			</div>
-			<img src="img/5.jpg" alt="virus">
-		</div>
-		<div class="item" >
-			<div class="center-letter">
-				<h1 class="ml16">contact</h1>
-			</div>
-			<img src="img/6.jpg" alt="virus">
-		</div>
-
-	</div>
  </header>
 
 
- <h1>MODIFY HERE</h1>
+
  
+
+
+
+ 
+ <h1 class="title contact"><br>Contact</h1>
+
+
+ <p class="textecentre" >
+Pour être informé de l'actualité du GRETA, inscrivez vous à notre newletter.
+	</p>
+
+<div class="center-form-mail">
+ <form class="form-inline">
+	<div class="form-group mb-2">
+	  <label for="staticEmail2" class="sr-only"></label>
+	  <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="votre aresse mail">
+	</div>
+	
+	<button type="submit" class="btn btn-primary mb-2">Souscrire</button>
+  </form>
+</div>
+
+
+  <p class="textecentre">
+N'hesitez pas à nous suivre egalement sur facebook 
+		</p>
+		<div class="textecentre">
+	<figcaption><a href="#"><i class="fa fa-facebook-square fa-2x"></i></a></figcaption></div>
+
+
+	<div class="textecentre">
+	<label for="phone">Entrez votre numero de telephone pour reçevoir les informations importante concernant l'organisme</label>
+
+	<input type="tel" id="phone" name="phone"
+		   pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+		   required>
+		</div>
+
+
+		<p>nous contacter</p>
+	
+
+
+
+		<section class="mb-4">
+
+			<!--Section heading-->
+			<h2 class="h1-responsive font-weight-bold text-center my-4">Contact</h2>
+			<!--Section description-->
+			<p class="text-center w-responsive mx-auto mb-5">Si vous avez une question, posez la nous directement.</p>
+		
+
+<div class="formcenter">
+
+			<div class="row">
+		
+				<!--Grid column-->
+				<div class="col-md-9 mb-md-0 mb-5">
+					<form id="contact-form" name="contact-form" action="mail.php" method="POST">
+		
+						<!--Grid row-->
+						<div class="row">
+		
+							<!--Grid column-->
+							<div class="col-md-6">
+								<div class="md-form mb-0">
+									<input type="text" id="name" name="name" class="form-control">
+									<label for="name" class="">Votre nom</label>
+								</div>
+							</div>
+							<!--Grid column-->
+		
+							<!--Grid column-->
+							<div class="col-md-6">
+								<div class="md-form mb-0">
+									<input type="text" id="email" name="email" class="form-control">
+									<label for="email" class="">Votre email</label>
+								</div>
+							</div>
+							<!--Grid column-->
+		
+						</div>
+						<!--Grid row-->
+		
+						<!--Grid row-->
+						<div class="row">
+							<div class="col-md-12">
+								<div class="md-form mb-0">
+									<input type="text" id="subject" name="subject" class="form-control">
+									<label for="subject" class="">sujet</label>
+								</div>
+							</div>
+						</div>
+						<!--Grid row-->
+		
+						<!--Grid row-->
+						<div class="row">
+		
+							<!--Grid column-->
+							<div class="col-md-12">
+		
+								<div class="md-form">
+									<textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+									<label for="message">Votre message</label>
+								</div>
+		
+							</div>
+						</div>
+						<!--Grid row-->
+		
+					</form>
+		
+					<div class="text-center text-md-left">
+						<a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Envoyer</a>
+					</div>
+					<div class="status"></div>
+				</div>
+				<!--Grid column-->
+		
+				<!--Grid column-->
+				<div class="col-md-3 text-center">
+					<ul class="list-unstyled mb-0">
+						<li><i class="fas fa-map-marker-alt fa-2x"></i>
+							<p>Avenue Winston Churchill, 83000 Toulon</p>
+						</li>
+		
+						<li><i class="fas fa-phone mt-4 fa-2x"></i>
+							<p>01 26 35 92 87</p>
+						</li>
+		
+						<li><i class="fas fa-envelope mt-4 fa-2x"></i>
+							<p>contact@greta.com</p>
+						</li>
+					</ul>
+				</div>
+				<!--Grid column-->
+		
+			</div>
+		
+
+		</div>
+		</section>
+		<!--Section: Contact v.2-->
+
  <footer>
  	
  </footer>

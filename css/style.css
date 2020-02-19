@@ -170,6 +170,7 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
 	padding-bottom: 120px;
 	padding-top: 100px;
 }
+
 .title {
     font-size: 48px;
     font-size: 4.2rem;
@@ -305,4 +306,30 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
 
 .container-choice-img{
 	height:40%;
+}
+
+
+ 
+.textecentre {
+   margin-left: auto;
+   margin-right: auto;
+   width: 50em;
+   margin-top: 20px;
+}
+.center-form-mail {
+    width: 41%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title.contact{
+    text-align: center;
+}
+
+.formcenter{
+
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+
 }
