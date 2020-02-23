@@ -147,21 +147,25 @@
 				</a>
 			</li>
 		</ul>
-
 	 </section>
-
-
+		
  <footer>
  	<div class="footer-left">
  		<h3 class="our-center">Nos centres de formations:</h3>
  		<div class="container-search-city">
-	 		<input type="text" name="search-city" id ="search_city" class="input-search-city" placeholder="Rechercher une ville...">
+ 			<input type="hidden" id="location-user" value="">
+ 			<label class="label-search">Rechercher un centre près de chez vous :</label>
+ 			<div class="flex">
+	 			<input type="text" name="search-city" id ="search_city" class="input-search-city" placeholder="Rechercher une ville...">
+	 			<p style="margin-left: 10px;">ou</p>
+	 			<p class="p-locate">Se localiser <i class="fa fa-map-marker"></i></p>
+	 		</div>
 	 		<div class="hidden-result-search-city"></div>
 	 	</div>
  		<div class="grid-footer">
  			<p class="map-city" data-coordonnees="49.8941708, 2.2956951">Amiens</p>
  			<p class="map-city" data-coordonnees="43.2961743, 5.3699525">Marseille</p>
- 			<p class="map-city" data-coordonnees="43.1257311, 5.9304919">Toulon</p>
+ 			<p class="map-city" data-coordonnees="43.7009358, 7.2683912">Nice</p>
  			<p class="map-city" data-coordonnees="48.3905283, -4.4860088">Brest</p>
  			<p class="map-city" data-coordonnees="17.9712148, -76.7928128">Kingston</p>
  			<p class="map-city" data-coordonnees="18.2214172, -66.4132819">Porto rico</p>
@@ -175,6 +179,7 @@
  	</div>
  	<div class="footer-right">
 		<div id="map"></div>
+		<div id="carte"></div>
  	</div>
     <!--The div element for the map -->
     
@@ -182,6 +187,7 @@
           Copyright © 2019 DAFPIC - Tous droits réservés DAFPIC - Délégation académique à la formation professionnelle initiale et continue - Rectorat de Nice - 53, ave Cap de Croix - 06181 Nice cedex 2
 	</div>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAMYtWdKjwq6TPhVJfh7r1Tq7B8VYNg3xw&callback=initMap"></script>
+
 	<script src="js/jquery.min.js"></script>
 	<script src="js/owl.carousel.js"></script>
 	<script src="js/all.js"></script>
@@ -189,5 +195,6 @@
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 </footer>
+
 </body>
 </html>
