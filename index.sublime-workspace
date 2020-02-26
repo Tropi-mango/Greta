@@ -522,8 +522,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/valen/Documents/GitHub/Greta",
-		"/C/Users/valen/Documents/GitHub/Greta/pages"
+		"/C/Users/GRETA/Documents/GitHub/Greta",
+		"/C/Users/GRETA/Documents/GitHub/Greta/js"
 	],
 	"file_history":
 	[
@@ -658,7 +658,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -880,7 +880,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2880.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1013,7 +1013,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -1054,7 +1054,7 @@
 	"project": "index.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
