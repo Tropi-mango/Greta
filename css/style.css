@@ -15,6 +15,7 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
+
 .fa-map-marker {
     margin-left: 10px;
     margin-top: 5px;
@@ -156,6 +157,7 @@ a, button, input:focus, input[type="button"], input[type="reset"], input[type="s
 #map {
   height: 400px;  /* The height is 400 pixels */
   width: 100%;  /* The width is the width of the web page */
+
  }
 .fadeInUp.who-are-we{
     background-color: white;

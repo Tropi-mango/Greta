@@ -428,6 +428,7 @@
 	"buffers":
 	[
 		{
+
 			"file": "index.html",
 			"settings":
 			{
@@ -480,6 +481,7 @@
 				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
+
 		}
 	],
 	"build_system": "",
@@ -522,6 +524,7 @@
 	},
 	"expanded_folders":
 	[
+
 		"/C/Users/GRETA/Documents/GitHub/Greta",
 		"/C/Users/GRETA/Documents/GitHub/Greta/js"
 	],
@@ -534,6 +537,10 @@
 		"/C/Users/GRETA/Documents/GitHub/Greta/pages/contact.html",
 		"/C/Users/GRETA/Documents/GitHub/Greta/pages/formations.html",
 		"/C/Users/GRETA/Documents/GitHub/Greta/pages/testimonial.html",
+=======
+		"/C/Users/GRETA/Documents/GitHub/Greta"
+	],
+
 		"/C/Users/GRETA/Documents/GitHub/Greta/index.php",
 		"/C/wamp64/www/DBA/js/event-carousel.js",
 		"/C/Users/GRETA/Documents/GitHub/Greta/vue/header.php",
@@ -654,7 +661,7 @@
 		"/C/wamp64/www/GrafikartObjet/Blog/pages/home.php",
 		"/C/wamp64/www/GrafikartObjet/Blog/pages/categorie.php",
 		"/C/wamp64/www/GrafikartObjet/Blog/app/Autoloader.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/pages/templates/default.php"
+
 	],
 	"find":
 	{
@@ -828,6 +835,7 @@
 			[
 				{
 					"buffer": 0,
+
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
@@ -888,19 +896,24 @@
 				},
 				{
 					"buffer": 2,
+
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
+
 						"buffer_size": 9932,
+
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+
 								9921,
 								9921
+
 							]
 						],
 						"settings":
@@ -916,6 +929,7 @@
 						"translation.y": 9427.0,
 						"zoom_level": 1.0
 					},
+
 					"stack_index": 5,
 					"type": "text"
 				},
@@ -1006,6 +1020,7 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+
 					"type": "text"
 				}
 			]
