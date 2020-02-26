@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"lon",
+				"longitudeUser"
+			],
+			[
+				"Des",
+				"Destination2"
+			],
+			[
+				"D",
+				"Destination"
+			],
+			[
+				"lat",
+				"latitudeDestination"
+			],
+			[
+				"longi",
+				"longitudeDestination"
+			],
+			[
+				"latit",
+				"latitudeDestination"
+			],
+			[
+				"key",
+				"keyLng"
+			],
+			[
+				"loc",
+				"locations"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
 				"fade",
 				"fadeOut"
 			],
@@ -34,10 +78,6 @@
 			[
 				"su",
 				"submit"
-			],
-			[
-				"mar",
-				"margin-top\tproperty"
 			],
 			[
 				"fl",
@@ -388,11 +428,56 @@
 	"buffers":
 	[
 		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8375,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/all.js",
+			"settings":
+			{
+				"buffer_size": 15335,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 6258,
+				"buffer_size": 9932,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/formations.html",
+			"settings":
+			{
+				"buffer_size": 3919,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/faq.html",
+			"settings":
+			{
+				"buffer_size": 3920,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/testimonial.html",
+			"settings":
+			{
+				"buffer_size": 3920,
+				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
 		}
@@ -437,10 +522,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/GRETA/Documents/GitHub/Greta"
+		"/C/Users/GRETA/Documents/GitHub/Greta",
+		"/C/Users/GRETA/Documents/GitHub/Greta/js"
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/DBA/css/style.css",
+		"/C/Users/valen/Documents/GitHub/Greta/js/geometry.js",
+		"/E/retour/menu/css/style.css",
+		"/C/Users/GRETA/Documents/GitHub/Greta/pages/faq.html",
+		"/C/Users/GRETA/Documents/GitHub/Greta/pages/contact.html",
+		"/C/Users/GRETA/Documents/GitHub/Greta/pages/formations.html",
+		"/C/Users/GRETA/Documents/GitHub/Greta/pages/testimonial.html",
 		"/C/Users/GRETA/Documents/GitHub/Greta/index.php",
 		"/C/wamp64/www/DBA/js/event-carousel.js",
 		"/C/Users/GRETA/Documents/GitHub/Greta/vue/header.php",
@@ -561,14 +654,7 @@
 		"/C/wamp64/www/GrafikartObjet/Blog/pages/home.php",
 		"/C/wamp64/www/GrafikartObjet/Blog/pages/categorie.php",
 		"/C/wamp64/www/GrafikartObjet/Blog/app/Autoloader.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/pages/templates/default.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Categorie.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/app/Table/Article.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/demo/car.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/demo/car_citadine.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/demo/index.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/demo/car4x4.php",
-		"/C/wamp64/www/GrafikartObjet/Blog/demo/carFactory.php"
+		"/C/wamp64/www/GrafikartObjet/Blog/pages/templates/default.php"
 	],
 	"find":
 	{
@@ -586,6 +672,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"media",
+			"console",
+			"DirectionsRenderer",
+			"set",
+			"geom",
+			"NewmarkersUser",
+			"alert",
+			"grid",
+			"map-city",
+			"6174943",
+			"longitude",
+			"grid",
 			"background-menu",
 			"container-hidden-menu",
 			"container-hidden-menu show",
@@ -701,19 +799,7 @@
 			"response_to",
 			"id_response",
 			"){  ",
-			"laiss",
-			"btn-laisser-comm",
-			"add_commentaire",
-			"color",
-			"display_response",
-			"txt-aff-reponse",
-			"response_comment",
-			"btn-poster-msg",
-			"btn btn-poster-msg",
-			"display_response",
-			"response_comment",
-			"#response_comment",
-			"response_comment"
+			"laiss"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -737,24 +823,84 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/style.css",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6258,
+						"buffer_size": 8375,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8358,
+								5992
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/all.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2957,
+								2957
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9921,
+								9921
 							]
 						],
 						"settings":
@@ -767,10 +913,99 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 300.0,
+						"translation.y": 9427.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/formations.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3254,
+								3216
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1332.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/faq.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3904,
+								3904
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1352.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pages/testimonial.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3904,
+								3904
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1352.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
