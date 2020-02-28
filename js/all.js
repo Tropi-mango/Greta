@@ -1,5 +1,13 @@
 $(document).ready(function() {
 
+	//PAGE FAQ 
+    //SHOW/HIDE REGLAGES
+    $('.select_reglage').on('click', (function (e) {
+    	$(this).parent().find('.hidden_reglage').fadeToggle(500);
+    	$(this).toggleClass('active');
+    	$(this).find(".fa-angle-up.menu").toggle();
+    	$(this).find(".fa-angle-down.menu").toggle();    		
+    }));
    //WOW JS 
 	new WOW().init();
   // OWL-CAROUSEL
@@ -294,7 +302,7 @@ $(document).ready(function() {
 	//GET USER IP AND LOCATION
 	$('.p-locate').on('click', (function (e) {
 	navigator.geolocation.watchPosition(function(position) {
-		$("html, body").animate({ scrollTop: $(document).height() }, 1500);
+		//$("html, body").animate({ scrollTop: $(document).height() }, 1500);
 	    console.log("i'm tracking you!");
 	    navigator.geolocation.getCurrentPosition(showPosition);
 		coordonnees = $("#location-user").val();
