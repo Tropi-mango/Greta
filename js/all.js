@@ -1,16 +1,15 @@
 function getIncludeHTML(name, querySelect) {
 	fetch(name)
 
-		.then(response => {
-			return response.text()
-		})
-		.then(data => {
-			document.querySelector(querySelect).innerHTML = data;
-		});
-}
-
-$(document).ready(function () {
-	//WOW JS 
+	//PAGE FAQ 
+    //SHOW/HIDE REGLAGES
+    $('.select_reglage').on('click', (function (e) {
+    	$(this).parent().find('.hidden_reglage').fadeToggle(500);
+    	$(this).toggleClass('active');
+    	$(this).find(".fa-angle-up.menu").toggle();
+    	$(this).find(".fa-angle-down.menu").toggle();    		
+    }));
+   //WOW JS 
 	new WOW().init();
 	// OWL-CAROUSEL
 	$("#owl-full").owlCarousel({
@@ -312,35 +311,39 @@ $(document).ready(function () {
 
 	//GET USER IP AND LOCATION
 	$('.p-locate').on('click', (function (e) {
-		navigator.geolocation.watchPosition(function (position) {
-				//$("html, body").animate({ scrollTop: $(document).height() }, 1500);
-				console.log("i'm tracking you!");
-				navigator.geolocation.getCurrentPosition(showPosition);
-				coordonnees = $("#location-user").val();
-				latitudeUser = coordonnees.split(",")[0];
-				latitudeUser = parseFloat(latitudeUser);
-				longitudeUser = coordonnees.split(",")[1];
-				longitudeUser = parseFloat(longitudeUser);
-				coordonnees = {
-					lat: latitudeUser,
-					lng: longitudeUser
-				};
-				NewmarkersUser = new google.maps.Marker({
-					position: new google.maps.LatLng(coordonnees),
-					map: map
-				});
-				infowindow.setContent("Vous êtes ici");
-				infowindow.open(map, NewmarkersUser);
-				NewmarkersUser.setIcon('http://maps.google.com/mapfiles/ms/icons/green-dot.png')
-				map.panTo(coordonnees);
-				map.setZoom(9);
-				destinationlatArray = [];
-				destinationlngArray = [];
-				var y;
-				for (y = 0; y < locations.length; ++y) {
-					destinationlat = latitudeUser - (locations[y][1]);
-					destinationlat = Math.abs(destinationlat);
-					destinationlatArray.push(destinationlat);
+	navigator.geolocation.watchPosition(function(position) {
+		//$("html, body").animate({ scrollTop: $(document).height() }, 1500);
+	    console.log("i'm tracking you!");
+	    navigator.geolocation.getCurrentPosition(showPosition);
+		coordonnees = $("#location-user").val();
+		latitudeUser = coordonnees.split(",")[0];
+		latitudeUser = parseFloat(latitudeUser);
+		longitudeUser = coordonnees.split(",")[1];
+		longitudeUser = parseFloat(longitudeUser);
+    	coordonnees = {lat: latitudeUser, lng: longitudeUser};
+      	NewmarkersUser = new google.maps.Marker({
+        	position: new google.maps.LatLng(coordonnees),
+        	map: map
+      	});
+      	infowindow.setContent("Vous êtes ici");
+      	infowindow.open(map, NewmarkersUser);
+    	NewmarkersUser.setIcon('http://maps.google.com/mapfiles/ms/icons/green-dot.png')
+        map.panTo(coordonnees);
+		map.setZoom(9);
+		destinationlatArray = [];
+		destinationlngArray = [];
+    	var y;
+		for (y = 0; y < locations.length; ++y) {
+			destinationlat = latitudeUser - (locations[y][1]) ;
+			destinationlat = Math.abs(destinationlat);
+			destinationlatArray.push(destinationlat);
+			
+			destinationlng = longitudeUser - (locations[y][2]) ;
+			destinationlng = Math.abs(destinationlng);
+			destinationlngArray.push(destinationlng);
+		}
+		var destinationlat = Math.min.apply(null, destinationlatArray);
+		var destinationlng = Math.min.apply(null, destinationlngArray);
 
 					destinationlng = longitudeUser - (locations[y][2]);
 					destinationlng = Math.abs(destinationlng);
