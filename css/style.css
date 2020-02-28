@@ -5,9 +5,46 @@ html, body{
 	margin: 0;
 	font-family: 'Muli', sans-serif !important;
 	letter-spacing: 2px;
-	background-color: #ecebeb !important;
+  background-color: #ecebeb !important;
+  background-position: cover;
+  background-size: cover;
 	/* overflow-x: hidden; */
 }
+
+.fadeInUp.testi-container {
+  background-color: 
+  white;
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+
+}
+.title.testi{
+ text-align: center;
+ background-color: white;
+ margin: 0;
+ padding-top: 2%;
+}
+
+.testi_stripe {
+  background-image: url(../img/working_class.com.jpg);
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+}
+
+.imagetesti{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: auto;
+  margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
 a, button, input:focus, input[type="button"], input[type="reset"], input[type="submit"], textarea:focus, .button, .front-page .overlay, .gallery img, .site-header {
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
